@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Hi 👋! <br>I'm Theofani, Android Developer from Indonesia</h2>
+<h2 data-importer="text" align="left">Hi 👋! <br>I'm Theofani Hati, Android Developer</h2>
 
 ###
 
